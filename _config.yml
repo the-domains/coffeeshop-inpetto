@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.2706093
+  brandStrength: 1
+  lightness: 0.3494624
+  brandColors:
+    - '#FFFFFF'
+    - '#949494'
+    - '#6F6F6F'
+    - '#B9B9B9'
+    - '#5C5C5C'
+  rhythmicContrast: 0.1487455
+typography_spectrum: 0.9050179
+name: Coffeeshop Inpetto
